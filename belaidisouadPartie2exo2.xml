@@ -1,0 +1,22 @@
+
+< liste >
+    < adhérent >
+        < ro >adhérent</ ro >
+        < nom >adhérent</ nom >
+        < prenom >adhérent</ prenom >
+        < datenaissance >adhérent</ datenaissance >
+    </ adhérent >
+    
+    < activité >
+        < ro >activité</ ro >
+        < libelle >activité</ libelle >
+        < tarif >activité</ tarif >
+    </ activité >
+
+    < responsable >
+        < ro >responsable</ ro >
+        < nom >responsable</ nom >
+        < prenom >responsable</ prenom >
+    </ responsable >
+
+</ liste >
